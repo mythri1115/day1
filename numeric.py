@@ -1,0 +1,9 @@
+num=22
+print(num)
+print(type(num))
+num=33.5
+print(num)
+print(type(num))
+num=-34+7j
+print(num)
+print(type(num))
